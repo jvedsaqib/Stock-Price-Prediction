@@ -78,4 +78,4 @@ leaderboard_md = generate_leaderboard_md(leaderboard)
 with open('leaderboard.md', 'w') as f:
     f.write(leaderboard_md)
 
-print("Leaderboard updated successfully!")
+print("Leaderboard updated successfully! yes")
